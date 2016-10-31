@@ -15,3 +15,5 @@ TODO:
 -Add 4th player functionality.
 
 -Code needs to be optimized, also needs a new algorithum to calculate like integers in the array.
+
+-Add a .exe file to run the damn thing (Duh)
